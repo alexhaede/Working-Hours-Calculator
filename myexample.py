@@ -49,6 +49,7 @@ def calculate_overtime_or_deficit(expected_end_time, actual_end_time_str):
 
 def main():
     print("Arbeitszeitrechner")
+    print('Hello World!')
     start_time_str = input("Arbeitszeitbeginn: (HH:MM, 24-Stunden Format): ")
     
     try:
