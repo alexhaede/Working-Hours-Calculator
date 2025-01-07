@@ -1,5 +1,7 @@
 from datetime import datetime, timedelta
 
+import streamlit as st
+
 # Constants
 CONTRACTUAL_HOURS_PER_WEEK = 37.5  # Weekly work hours
 WORK_DAYS_PER_WEEK = 5            # Number of workdays in a week
