@@ -1,3 +1,6 @@
+import streamlit as st
+from myexample import calculate_end_time
+
 from datetime import datetime, timedelta
 
 # Constants
